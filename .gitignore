@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+tensorboard_logs_HP_Opt
+HP_Opt_logs
