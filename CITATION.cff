@@ -5,3 +5,4 @@ authors:
     given-names: Jan
 title: "Predicting spatiotemporal systems with an Echo-State-Network approach in Tensorflow-GPU"
 date-released: 2021-10-01
+url: "https://github.com/janmeyer97/Echo_State_Networks_in_Tensorflow"
